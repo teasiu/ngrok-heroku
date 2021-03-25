@@ -9,7 +9,7 @@
         },
         "SUBDOMAIN": {
             "description": "subdomain",
-            "value": ""
+            "value": "openwrt"
         }
     },
     "website": "",
