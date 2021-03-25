@@ -13,6 +13,6 @@
         }
     },
     "website": "",
-    "repository": "https://github.com/hms58/ngrok-heroku",
+    "repository": "https://github.com/teasiu/ngrok-heroku",
     "stack": "container"
 }
